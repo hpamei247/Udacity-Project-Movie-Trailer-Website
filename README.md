@@ -17,5 +17,8 @@ Steps :
 Built With :
 Python 2.7.14
 
+Contributors :
+Udacity Full Stack Developer Part - 1 
+
 Acknowledgments :
 I would like to thank Udacity for giving me this opportunity to build this project, the Full Stack Development course has supplemented me with the knowledge needed to complete the Movie Website Trailer project.
